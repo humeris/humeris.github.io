@@ -1,0 +1,6 @@
+title: Espresso-Shot
+description: The strong shot of testing your types need
+github:
+  is_project_page: true
+  repository_url: https://github.com/humeris/humeris/tree/master/packages/espresso-shot
+theme: jekyll-theme-cayman
